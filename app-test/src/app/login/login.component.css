@@ -1,0 +1,37 @@
+.login-wrapper {
+    width: 100%;
+    float: left;
+}
+button.btn-cprimary {
+    background: #db1a5d;
+    font-size: 16px;
+    color: #fff;
+    border: 1px solid #db1a5d;
+    padding: 8px 28px;
+    border-radius: 4px;
+}
+.login {
+    width: 500px;
+    margin: 10% auto 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0 0 1px 0px rgba(0, 0, 0, 0.1);
+}
+.login .form_group input {
+    width: 100%;
+    height: 36px;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+}
+.login label {
+    width: 100%;
+    float: left;
+    margin-bottom: 6px;
+}
+
+.login .form_group {
+    margin-bottom: 10px;
+}

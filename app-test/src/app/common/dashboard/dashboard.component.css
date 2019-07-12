@@ -1,0 +1,30 @@
+.listing-dashboard {
+    width: 100%;
+    float: left;
+}
+
+.listing-dashboard table {
+    width: 100%;
+    text-align: center;    border: 1px solid #db1a5d;
+    margin: 0;
+}
+.listing-dashboard table tr td a {
+    padding: 0 5px 0 0;
+}
+.listing-dashboard table thead {
+    background: #db1a5d;
+    color: #fff;
+}
+.listing-dashboard table tbody {
+    background: #f7f7f7;
+    color: #000;
+}
+
+.listing-dashboard table thead tr th {
+    border: 0;
+    padding: 6px 0;
+}
+
+.listing-dashboard table tbody tr td {
+    padding: 6px 0;
+}
